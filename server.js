@@ -19,7 +19,7 @@ mongoose.Promise = global.Promise;
 mongoose
   .connect(
     process.env.MONGODB_URI ||
-      "mongodb://dongdong:mnizdd123@ds115931.mlab.com:15931/heroku_stmrw6fh",
+    "mongodb://dongdong:mnizdd123@ds151997.mlab.com:51997/heroku_psggjqp4",
     { useNewUrlParser: true }
   )
   .then(() => {
