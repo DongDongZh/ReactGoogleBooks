@@ -1,0 +1,22 @@
+form.search {
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+form.search button[type="submit"] {
+  float: right;
+  margin-top: 10px;
+}
+
+.btn-submit{
+  background: #2E64FE; 
+  border-color:#2E64FE;
+  font-family: 'Literata', serif;
+  color:white; 
+}
+
+/* .btn-submit:hover{
+  background: #2E64FE; 
+  border-color:#2E64FE;
+  font-family: 'Literata', serif;
+} */

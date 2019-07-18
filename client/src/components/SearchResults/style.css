@@ -1,0 +1,44 @@
+ul.search-results img {
+  margin: 0 auto;
+}
+
+.btn-view{
+  margin-right: 10px; 
+}
+.btn-view:hover{
+  color:white; 
+}
+.search-results{
+  margin-top:40px; 
+}
+
+.list-group-item{
+  background-color: #eee;
+  height:100%; 
+
+}
+
+.inline-description{
+  float:right; 
+  height:170px; 
+  width:85%; 
+  overflow-y: scroll; 
+}
+
+.inline{
+  display: inline; 
+}
+
+.inline-image{
+  height:170px;
+  width:130px; 
+  float:left; 
+  width:12%; 
+}
+
+.no-result{
+  background: #eee; 
+  font-size:28px; 
+  text-align: center; 
+  padding:60px 0; 
+}
